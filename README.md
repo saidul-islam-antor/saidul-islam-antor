@@ -61,14 +61,14 @@ I am a passionate Full Stack Developer from Habiganj, Bangladesh. I love buildin
 
 ---
 
-## Pinned Projects  
+## latest Projects  
 
 ### Modern Hotel Booking  
 [Live Demo](https://frolicking-phoenix-32a6d2.netlify.app/) | [Repo]( https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-saidul-islam-antor)  
 A full-stack hotel booking platform with authentication, room booking, and reviews.
 
 ### Freelance Task Marketplace  
-[Live Demo](https://papaya-mousse-fa0a79.netlify.app/) | [Repo](https://github.com/saidul-islam-antor/b11a10-client-side-saidul-islam-antor)  
+[Live Demo](https://papaya-mousse-fa0a79.netlify.app/) | [Repo](https://github.com/Programming-Hero-Web-Course4/b11a10-client-side-saidul-islam-antor)  
 A marketplace for freelance task posting and bidding with user authentication.
 
 ### English Janala  
